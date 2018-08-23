@@ -1,5 +1,5 @@
 """
-initial library
+little thing to debug stuff
 """
 import select
 import socket 
